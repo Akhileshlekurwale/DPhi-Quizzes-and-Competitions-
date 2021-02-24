@@ -9,6 +9,7 @@ The data given below contains the information about past loan applicants and whe
 
 In this case study, you will use EDA tounderstand how consumer attributes and loan attributes influence the tendency of default.
 
+![loan_image](https://user-images.githubusercontent.com/54830213/108996339-43514800-76c4-11eb-9cd3-e143b953140a.png)
 
 
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
