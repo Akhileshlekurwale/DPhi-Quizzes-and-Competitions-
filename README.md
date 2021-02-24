@@ -1,3 +1,3 @@
-# DPhi-Quizzes-and-Competitions- 
+# Sample ML Projects
 
-This will have all the datathons and quizes launched By Dphi.
+Sample and simlar projects in ML spaces on which I worked. 
